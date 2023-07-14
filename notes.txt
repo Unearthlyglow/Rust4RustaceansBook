@@ -1,0 +1,5 @@
+Chapter 5:
+
+Pg 68: On 7/14/23 I added cargo-hack. Info about this crate can be found here: https://github.com/taiki-e/cargo-hack/
+
+This was added so that I can use the cargo hack commands to check that my crates compile correctly whenever I add a combination of features. 
